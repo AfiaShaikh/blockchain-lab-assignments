@@ -29,7 +29,7 @@ This repository contains 5 practical assignments demonstrating core blockchain c
 
 ---
 
-##  Assignment 1: Smart Contract Development
+## Assignment 1: Smart Contract Development
 
 ###  What was done:
 
